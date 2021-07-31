@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "27528359397",
+    "project_id": "flowerpred-6430a",
+    "storage_bucket": "flowerpred-6430a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27528359397:android:9993be3a3e6c393436530c",
+        "android_client_info": {
+          "package_name": "com.meshal.flower_pred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27528359397-eij28afb4ofamkjovamvarv5qubf0gnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meshal.flower_pred",
+            "certificate_hash": "660f3687ef2f1cc60c2287538b89c3e460ede223"
+          }
+        },
+        {
+          "client_id": "27528359397-cvfgsgpk9ncspu32m2tn2nulhgof5mce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq59odSjDrrfHHRFbZiFtO84ozx81MM90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27528359397-cvfgsgpk9ncspu32m2tn2nulhgof5mce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
